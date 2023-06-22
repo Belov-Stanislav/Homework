@@ -1,5 +1,1 @@
-def palindrom(s):
-    if s==s[::-1]:
-        print(True)
-    else:
-        print(False)
+В функции palindrom(s) происходит проверка, если s равен s[::-1](тот же s, но справо налево), то выводтся True, если не равно, то False.
