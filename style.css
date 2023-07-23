@@ -1,0 +1,22 @@
+h1 {
+background: red;
+}
+.paragraph-1 {
+background: yellow;
+font-size: 24pt;
+color: blue;
+}
+.paragraph-2 {
+border: 10px solid pink;
+border-radius: 5px;
+font-size: 24pt;
+margin-botton: 60px;
+radding-botton: 60px;
+radding-left: 60px;
+}
+.paragraph-3 {
+font-size: 24px;
+text-align: center;
+font-style: oblique;
+text-shadow: 8px 8px 3px green;
+}
